@@ -1,73 +1,127 @@
-# Welcome to your Lovable project
+# Compute With Charm ✨💻
 
-## Project info
+## Project Info
 
-**URL**: https://lovable.dev/projects/2f61a8d4-2b1e-4d6c-bebf-b05e911ea296
+**Compute With Charm** is a modern, interactive web application built with a focus on simplicity, performance, and elegant user experience 
 
-## How can I edit this code?
+**Live Project URL**:  
+https://lovable.dev/projects/2f61a8d4-2b1e-4d6c-bebf-b05e911ea296
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## How Can I Edit This Project?
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/2f61a8d4-2b1e-4d6c-bebf-b05e911ea296) and start prompting.
+You can edit and maintain this project in multiple flexible ways depending on your workflow.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+### 🧠 Edit Using Lovable (Recommended)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Lovable provides a prompt-based editing experience with automatic GitHub syncing.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Open the project in Lovable:  
+  👉 https://lovable.dev/projects/2f61a8d4-2b1e-4d6c-bebf-b05e911ea296
+- Start prompting or editing directly
+- All changes are **automatically committed** to this repository
 
-Follow these steps:
+This is the fastest way to iterate and deploy.
+
+---
+
+### 💻 Edit Using Your Local IDE
+
+You can also work locally using your preferred IDE.
+
+#### Prerequisites
+- Node.js (v18 or later recommended)
+- npm  
+  👉 Install via nvm: https://github.com/nvm-sh/nvm#installing-and-updating
+
+#### Steps
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Step 1: Clone the repository
+git clone https://github.com/Shashikala6704/compute-with-charm.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Step 2: Navigate into the project directory
+cd compute-with-charm
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Step 3: Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server
 npm run dev
+````
+
+The app will be available at:
+
+```
+http://localhost:5173
 ```
 
-**Edit a file directly in GitHub**
+Any changes you push to GitHub will automatically sync back to Lovable.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+### ✏️ Edit Files Directly on GitHub
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+For quick edits:
 
-## What technologies are used for this project?
+1. Navigate to the file you want to update
+2. Click the **Edit (✏️)** button
+3. Make changes and commit them
 
-This project is built with:
+This method is useful for small documentation or configuration updates.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+### ☁️ Use GitHub Codespaces
 
-Simply open [Lovable](https://lovable.dev/projects/2f61a8d4-2b1e-4d6c-bebf-b05e911ea296) and click on Share -> Publish.
+You can also develop entirely in the browser:
 
-## Can I connect a custom domain to my Lovable project?
+1. Go to the repository homepage
+2. Click **Code → Codespaces**
+3. Select **New Codespace**
+4. Edit, commit, and push changes directly
 
-Yes, you can!
+No local setup required.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## Technologies Used
+
+This project is built with modern frontend tools:
+
+* **Vite** – Fast build tool
+* **TypeScript** – Type-safe JavaScript
+* **React** – Component-based UI
+* **shadcn/ui** – Reusable UI components
+* **Tailwind CSS** – Utility-first styling
+
+---
+
+## Deployment
+
+Deployment is handled seamlessly via Lovable:
+
+1. Open the project in Lovable
+2. Click **Share → Publish**
+3. Your app goes live instantly
+
+---
+
+## Custom Domain Support
+
+Yes, you can connect a custom domain.
+
+**Steps:**
+
+* Go to **Project → Settings → Domains**
+* Click **Connect Domain**
+
+📖 Documentation:
+[https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+
+```
+
+
