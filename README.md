@@ -122,6 +122,5 @@ Yes, you can connect a custom domain.
 📖 Documentation:
 [https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
 
-```
 
 
