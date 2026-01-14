@@ -1,4 +1,4 @@
-# Compute With Charm ✨💻
+# Compute With Charm 
 
 ## Project Info
 
